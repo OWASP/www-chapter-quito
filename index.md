@@ -27,7 +27,7 @@ Por favor visita y suscríbete en <http://www.meetup.com/OWASP-Quito> para recib
 Realizamos eventos periódicos en toda el área de OWASP Quito.
 
 Visita nuestra página deMeetup para registrarte en los próximos eventos:
-[<http://www.meetup.com/OWASP-Quito>
+<http://www.meetup.com/OWASP-Quito>
 
 ---
 

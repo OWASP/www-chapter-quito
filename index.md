@@ -13,14 +13,21 @@ region: Latin America
 
 # Quito Chapter Board
 
-Estás interesado en formar parte del Grupo de Trabajo del Capítulo Quito? Escríbenos a ecuador@owasp.org para coordinar nuestra primera reunión del 2020.
+Estás interesado en formar parte del Grupo de Trabajo del Capítulo Quito?
+Escríbenos a <ramiro.pulgar@owasp.org> para coordinar nuestra primera reunión del 2020.
 
 # Chapter Meetings
 
-Las reuniones, los talleres y los eventos del Quito OWASP Chapter están publicados en nuestro Meetup\!
+Las reuniones, talleres y eventos del Quito OWASP Chapter están publicados en nuestro Meetup\!
 
 Por favor visita y suscríbete en <http://www.meetup.com/OWASP-Quito> para recibir toda la información del Chapter.
 
+## Nuestro siguiente evento
+
+Realizamos eventos periódicos en toda el área de OWASP Quito.
+
+Visita nuestra página deMeetup para registrarte en los próximos eventos:
+[<http://www.meetup.com/OWASP-Quito>
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Eventos
+title: Eventos Pasados
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Eventos
+## Eventos Pasados
 
 Hemos organizado decenas de eventos desde el 2011, y les compartiremos en los siguientes días.
 

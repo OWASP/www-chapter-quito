@@ -15,7 +15,7 @@ Bienvenido a la página principal del capítulo Quito, Mitad del Mundo
 # OWASP Quito Chapter Team
 
 Estás interesado en formar parte del Grupo de Trabajo del Capítulo Quito?
-Escríbenos a <ramiro.pulgar@owasp.org> para coordinar nuestra primera reunión del 2020.
+Escríbenos para coordinar nuestra primera reunión del 2020.
 
 # Chapter Meetings
 

@@ -41,4 +41,4 @@ El Open Web Application Security Project (OWASP) es una fundación sin fines de 
 
 Somos una comunidad abierta dedicada a permitir que las organizaciones conciban, desarrollen, adquieran, operen y mantengan aplicaciones confiables. Todos nuestros proyectos, herramientas, documentos, foros y capítulos son libres y están abiertos a cualquier persona interesada en mejorar la seguridad de las aplicaciones. OWASP se lanzó el 1 de diciembre de 2001 y se incorporó como organización benéfica sin fines de lucro de los Estados Unidos el 21 de abril de 2004.
 
-Durante casi dos décadas, corporaciones, fundaciones, desarrolladores y voluntarios han apoyado a OWASP y su trabajo. [Done]</donate/>, [conviértase en miembro]</membership/>, y/o opoye a la comunidad como [patrocinador corporativo]</supporters/> hoy.
+Durante casi dos décadas, corporaciones, fundaciones, desarrolladores y voluntarios han apoyado a OWASP y su trabajo. [Done]</donate>, [conviértase en miembro]</membership>, y/o opoye a la comunidad como [patrocinador corporativo]</supporters/> hoy.

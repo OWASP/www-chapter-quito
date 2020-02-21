@@ -1,5 +1,5 @@
 ---
-title: Eventos Pasados
+title: Eventos
 displaytext: Eventos Pasados
 layout:  null
 tab: true

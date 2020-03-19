@@ -3,5 +3,7 @@
 
 ### Social Links
 * [Meetup](http://www.meetup.com/OWASP-Quito)
-* [Twitter](https://twitter.com/owasp_Quito)
-* [Slack](https://owasp.slack.com/#chapter-quito)
+* [Twitter](http://twitter.com/owasp_Quito)
+* [Facebook](http://www.facebook.com/OWASPQuito)
+* [Linkedin](http://www.linkedin.com/company/owasp-quito)
+* [Slack](http://owasp.slack.com/#chapter-quito)

@@ -1,10 +1,12 @@
 ---
 
 layout: col-sidebar
-title: Latam Tour 2020
-tags: quito
-level: 0
-
+title: OWASP LATAM at Home 2020
+tags: LatamTour2020
+type: documentation
+level: 4
+auto-migrated: 0
+pitch: El OWASP LATAM@Home 2020, es una gira que se realiza a través de los Capítulos de OWASP en Latinoamérica para promover la seguridad WEB y llevar filosofía OWASP a todos los sectores de la sociedad.
 
 ---
 
@@ -20,10 +22,12 @@ El evento que proponemos, tiene como objetivo realizar una semana de talleres y 
 
 ## Fechas
 
-El evento se realizará desdse el 4 al 8 de mayo de 2020. Estamos coordinando las charlas y horarios, quedate pendiente de nuestras redes sociales.
+El evento se realizará desdse el 4 al 8 de mayo de 2020.
 
 ## Plataforma:
 
 Los talleres van a utilizar la plataforma xxxxx. Esta plataforma es gratuita y tendrán un límite de cupos para los cursos que cuenten con preguntas y respuestas. Para los cursos que no tengan esta limitante, no tendrán límites de cupos.
 
 Para las presentaciones, se utilizará la plataforma xxxxx de streaming. No tendrán límites de cupos pero sí contará con registro de participantes.
+
+

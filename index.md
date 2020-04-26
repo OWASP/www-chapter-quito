@@ -22,7 +22,7 @@ El evento que proponemos, tiene como objetivo realizar una semana de talleres y 
 
 ## Fechas
 
-El evento se realizará desdse el 4 al 8 de mayo de 2020.
+El evento se realizará desdse el 4 al 8 de mayo de 2020. Las nmoticias sobre lso horarios las mantendremos actualziadas en redes sociales.
 
 ## Plataforma:
 

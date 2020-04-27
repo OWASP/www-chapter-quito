@@ -1,5 +1,4 @@
 ### Leaders
-
 <!--
 * [Diego Gonzalez](mailto:diego.gonzalez.arango@owasp.org)
 

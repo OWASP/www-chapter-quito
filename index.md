@@ -13,18 +13,18 @@ region: South America
 
 Bienvenido a la página principal del capítulo Quito, Mitad del Mundo
 
-# OWASP Quito Chapter Team
+## Team
 
 Estás interesado en formar parte del Grupo de Trabajo del Capítulo Quito?
 Escríbenos para coordinar nuestras siguientes reuniones virtuales del 2020.
 
-# Chapter Meetings
+## Meetings
 
 Las reuniones, talleres y eventos del OWASP Quito Chapter están publicados en nuestro Meetup\!
 
 Por favor visita y suscríbete en <http://www.meetup.com/OWASP-Quito> para recibir toda la información del Chapter.
 
-## Nuestro siguiente evento
+## Eventos
 
 Realizamos eventos periódicos del Capítulo OWASP Quito y Latinoamérica, como es el caso del [OWASP Latam@Home 2020](/www-event-2020-latam-at-home) que se desarrollará del 4 al 8 de mayo de 2020, donde habrá Conferencias y Talleres.
 

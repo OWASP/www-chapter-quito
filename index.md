@@ -6,6 +6,9 @@ tags: example-tag
 level: 0
 
 region: South America
+meetup-group: OWASP-Quito
+country: Ecuador
+postal-code: 
 
 ---
 

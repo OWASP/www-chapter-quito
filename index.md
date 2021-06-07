@@ -27,6 +27,10 @@ Las reuniones, talleres y eventos del OWASP Quito Chapter están publicados en n
 
 Por favor visita y suscríbete en <http://www.meetup.com/OWASP-Quito> para recibir toda la información del Chapter.
 
+## Upcoming Meeting 
+
+{% include chapter_events.html group=page.meetup-group %} 
+
 ## Eventos
 
 Realizamos eventos periódicos del Capítulo OWASP Quito y Latinoamérica, como es el caso del [OWASP Latam@Home 2020](/www-event-2020-latam-at-home) que se desarrollará del 4 al 8 de mayo de 2020, donde habrá Conferencias y Talleres.

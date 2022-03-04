@@ -11,4 +11,4 @@ tags: example-tag
 
 Hemos organizado decenas de eventos desde el 2011, y les compartiremos en los siguientes días.
 
-Desde ya prepárense para el OWASP Latam Tour 2021 en la ciudad de Quito en Junio 2021.
+Desde ya prepárense para el OWASP Latam Tour 2022.

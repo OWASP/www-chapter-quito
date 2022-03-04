@@ -19,7 +19,7 @@ Bienvenido a la página principal del capítulo Quito, Mitad del Mundo
 ## Team
 
 Estás interesado en formar parte del Grupo de Trabajo del Capítulo Quito?
-Escríbenos para coordinar nuestras siguientes reuniones virtuales del 2021.
+Escríbenos para coordinar nuestras siguientes reuniones virtuales del 2022.
 
 ## Meetings
 
@@ -27,13 +27,9 @@ Las reuniones, talleres y eventos del OWASP Quito Chapter están publicados en n
 
 Por favor visita y suscríbete en <http://www.meetup.com/OWASP-Quito> para recibir toda la información del Chapter.
 
-## Upcoming Meeting 
-
-{% include chapter_events.html group=page.meetup-group %} 
-
 ## Eventos
 
-Realizamos eventos periódicos del Capítulo OWASP Quito y Latinoamérica, como es el caso del [OWASP Latam@Home 2021](/www-event-2021-latam-at-home) que se desarrollará del 29 de junio al 1 de julio de 2021, donde habrá Conferencias y Talleres.
+Realizamos eventos periódicos del Capítulo OWASP Quito y Latinoamérica, como es el caso del OWASP Latam@Home 2022 que se desarrollará entre abril y junio de 2022, donde habrá Conferencias y Talleres.
 
 Visita nuestra página de Meetup para registrarte en los próximos eventos:
 <http://www.meetup.com/OWASP-Quito>

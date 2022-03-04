@@ -9,4 +9,4 @@ tags: example-tag
 
 ## Patrocinadores
 
-Estamos recibiendo solicitudes de patrocinio para los futuros eventos del OWASP Quito Chapter en 2021. Escríbenos!
+Estamos recibiendo solicitudes de patrocinio para los futuros eventos del OWASP Quito Chapter en 2022. Escríbenos!
